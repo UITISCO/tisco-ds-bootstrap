@@ -47,7 +47,7 @@ Our default branch is for development of our upcoming Bootstrap 5 release. Head 
 Several quick start options are available:
 
 - [Download the latest release](https://github.com/twbs/bootstrap/archive/v5.0.0-beta2.zip)
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
+- Clone the repo: `git clone https://github.com/UITISCO/tisco-ds-bootstrap.git`
 - Install with [npm](https://www.npmjs.com/): `npm install bootstrap@next`
 - Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap@next`
 - Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:5.0.0-beta2`
